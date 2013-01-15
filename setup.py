@@ -4,8 +4,8 @@
 from setuptools import setup, find_packages
 
 setup(name='wallaby-plugin-elasticsearch',
-      version='0.1.8',
-      url='http://freshx.de/wallaby/plugins/elasticsearch',
+      version='0.1.9',
+      url='https://github.com/FreshXOpenSource/wallaby-plugin-elasticsearch',
       author='FreshX GbR',
       author_email='wallaby@freshx.de',
       license='BSD',
